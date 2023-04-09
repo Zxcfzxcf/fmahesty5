@@ -396,8 +396,9 @@ h6,
 }
 
 .footer {
-  padding: 0 0 4rem 0;
+  padding: 4rem;
   padding-top: 5rem;
+  padding-bottom: 4rem;
 }
 
 .footer a {
