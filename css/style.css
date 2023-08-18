@@ -230,7 +230,7 @@ h6,
 /* Custom Navmenu */
 
 .custom-navmenu {
-  background: #0d1e2d;
+  background: #55354a87;
 }
 
 .custom-navmenu .custom-menu,
@@ -264,11 +264,11 @@ h6,
 }
 
 .custom-navmenu p {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.885);
 }
 
 .custom-navmenu a {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.94);
 }
 
 .custom-navmenu a:hover {
